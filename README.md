@@ -1,4 +1,4 @@
-orting algorithms & Big O
+Sorting algorithms & Big O
 
 **Learning Objectives**
 - learning sorting algorithms that puts elements of a list into an order.
@@ -52,7 +52,7 @@ Write a function that sorts an array of integers in ascending ord er using the S
 3. in the worst case
 
 
-**3. Qick sort**
+**3. Quick sort**
 
 Write a function that sorts an array of integers in ascending ord er using the Quick sort algorithm
 
@@ -70,5 +70,6 @@ Write a function that sorts an array of integers in ascending ord er using the Q
 
 **AUTHORS**
 
-Myra Jarenga - @myrajarenga on Github
-Laban Rotich - @laban254 on Github
+Myra Jarenga - @myrajarenga on   [Github](https://github.com/myrajarenga "Github")
+
+Laban Rotich - @laban254 on  [Github](https://github.com/myrajarenga "Github")

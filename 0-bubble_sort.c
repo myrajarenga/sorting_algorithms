@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
-et number*bubble_sort - function that sorts an array of integers
+ *bubble_sort - function that sorts an array of integers
  *@array: pointer to an array of unsorted integers
  *@size: the size of array
  *

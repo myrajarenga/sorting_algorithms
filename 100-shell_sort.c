@@ -8,7 +8,7 @@
 
 void shell_sort(int *array, size_t size)
 {
-	size_t interval = 1;
+	size_t interval = 1, outer, i;
 
 	while (interval <= size / 3)
 	{
@@ -17,7 +17,7 @@ void shell_sort(int *array, size_t size)
 
 	while (interval > 0)
 	{
-		for (size_t outer = interval; outer < size; outer++)
+		for (outer = interval; outer < size; outer++)
 		{
 			int temp = array[outer];
 			size_t inner = outer;
@@ -31,9 +31,9 @@ void shell_sort(int *array, size_t size)
 		}
 
 		/*printf("Interval: %lu\n", interval);*/
-		for (size_t i = 0; i < size; i++)
+		for (i = 0; i < size; i++)
 		{
-			printf("%d ", array[i]);
+			printf("%d  ", array[i]);
 		}
 		printf("\n");
 

@@ -65,6 +65,8 @@ Write a function that sorts an array of integers in ascending ord er using the Q
 1. in the best case
 2. in the average case
 3. in the worst case
+
+
 **4. Shell sort - Knuth Sequence**
 
 Write a function that sorts an array of integers in ascending order using the Shell sort algorithm, using the Knuth sequence

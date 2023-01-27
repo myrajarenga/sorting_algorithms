@@ -1,4 +1,4 @@
-# Sorting algorithms & Big O
+# :tw-1f4ca:Sorting algorithms & Big O:tw-1f4ca:
 
 ## **Learning Objectives**
 - learning sorting algorithms that puts elements of a list into an order.
@@ -9,7 +9,7 @@
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorithm
 
-## **TASKS**
+##  :tw-1f536:**TASKS**:tw-1f536:
 
 
 **0. Bubble sort**

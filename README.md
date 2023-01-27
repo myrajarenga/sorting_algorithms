@@ -1,15 +1,15 @@
-Sorting algorithms & Big O
+# Sorting algorithms & Big O
 
-**Learning Objectives**
+## **Learning Objectives**
 - learning sorting algorithms that puts elements of a list into an order.
 
-**General**
+## **General**
 - At least four different sorting algorithms
 - What is the Big O notation, and how to evaluate the time complexity of an algorithm
 - How to select the best sorting algorithm for a given input
 - What is a stable sorting algorithm
 
-**TASKS**
+## **TASKS**
 
 
 **0. Bubble sort**

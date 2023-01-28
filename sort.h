@@ -2,6 +2,8 @@
 #define SORT_H
 #include <stddef.h>
 #include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 /**
  * struct listint_s - Doubly linked list node
  *
@@ -28,4 +30,6 @@ void lomuto_sort(int *array, size_t size, int low, int high);
 void shell_sort(int *array, size_t size);
 void cocktail_sort_list(listint_t **list);
 void swap_nodes(listint_t **h, listint_t **n1, listint_t *n2);
+int get_max(int *array, int size);
+void counting_sort(int *array, size_t size);
 #endif /* SORT_H */
